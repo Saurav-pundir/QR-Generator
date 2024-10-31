@@ -33,4 +33,4 @@ img = qr.make_image(fill_color="white", back_color="black")
 filename = f"{domain_name}.png"
 img.save(filename)
 
-print(
+print(f"QR Code saved as {filename}")
