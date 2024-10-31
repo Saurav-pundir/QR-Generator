@@ -14,7 +14,7 @@ Make sure you have the necessary libraries installed (qrcode and Pillow) using t
   * Change the path to the repository you have cloned. If you have cloned https://github.com/Saurav-pundir/QR-Generator.git you will change directory to QR-Generator .
      - command : cd QR-Generator
   * Now you simply need to execute file.
-     - Command: python Snake.py
+     - Command: python QR-Generator.py
 
 #### EXAMPLE:-
 
