@@ -16,9 +16,10 @@ Make sure you have the necessary libraries installed (qrcode and Pillow) using t
   * Now you simply need to execute file.
      - Command: python QR_Generator.py
 
-#### EXAMPLE:-
+## EXAMPLE :-
 
-![image](https://github.com/user-attachments/assets/46e19583-bb7f-4416-b651-b1e691cbfeec)
+![image](https://github.com/user-attachments/assets/6450ff08-df2e-44dc-9bdf-d527cefae2e9)
+
 
 
 #### QR-CODE (Scan and follow me on github) 
